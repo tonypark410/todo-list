@@ -1,0 +1,19 @@
+.todo-list {
+	height: 100vh;
+	background-color: #008dcd;
+	padding: 40px;
+	color: #fff;
+}
+
+.cool-input {
+	width: 80%;
+	height: 40px;
+	padding: 10px 15px;
+	box-sizing: border-box;
+}
+
+.add-button {
+	cursor: pointer;
+	display: inline;
+	margin-left: 10px;
+}

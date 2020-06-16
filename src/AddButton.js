@@ -1,0 +1,14 @@
+import React from "react";
+
+export default class AddButton extends React.Component {
+	render() {
+		return (
+			<h1 className="add-button" onClick={this.props.addToList}>
+				+
+			</h1>
+		);
+	}
+}
+
+
+
